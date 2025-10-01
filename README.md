@@ -3,10 +3,12 @@
 **Durcit**은 Reddit에서 영감을 받아 만들어진 게임 커뮤니티 플랫폼으로, 게이머들이 활발하게 소통하고 콘텐츠를 공유할 수 있는 공간입니다. 다양한 기능을 통해 사용자가 더 편리하고 재미있게 커뮤니티 활동을 즐길 수 있도록 설계되었습니다.
 
 ---
-### 리포지터리 링크    
+### 리포지터리 링크
+
+* 소개 링크: https://github.com/yoda-yoda/Project3_durcit-overview  
+* 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
 * 리액트: https://github.com/yoda-yoda/Project3_durcit-react  
 * 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
-* 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
 * 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
 
 
