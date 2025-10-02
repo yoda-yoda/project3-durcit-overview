@@ -13,7 +13,7 @@
 * 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
 * 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
 ---
-### 이미지로 보기
+### ppt 이미지로 보기
 
 <details>
 <summary> 클릭 </summary>
@@ -70,10 +70,11 @@
 <br>
 </details>
 
-[▲](#이미지로-보기)
+[▲위로](#ppt-이미지로-보기)
 
+<br>
 
-<br><br><br><br><br>
+---
 
 ### 글로 보기
 
@@ -81,12 +82,9 @@
 <summary> 클릭 </summary>
 
 
+# 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
 
-## 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
-<br>
-
-## 💡 팀(팀명:질수없조) 프로젝트 개요  
-
+## 💡 팀(팀명:질수없조) 프로젝트
 
 **목적:**  
 **Durcit**은 Reddit에서 영감을 받아 만들어진 게임 커뮤니티 플랫폼으로, 게이머들이 활발하게 소통하고 콘텐츠를 공유할 수 있는 공간입니다.    
@@ -581,7 +579,7 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
 
 
 
-[▲](#글로-보기)
+[▲위로](#글로-보기)
 
 
 
