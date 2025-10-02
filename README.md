@@ -13,10 +13,10 @@
 * 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
 * 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
 ---
-### ppt 이미지로 보기
+## 개요
 
 <details>
-<summary> 클릭 </summary>
+<summary> ppt 이미지로 보기 </summary>
 
 ![pptImage](./assets/images/durcit-ppt1.png)
 ![pptImage](./assets/images/durcit-ppt2.png)
@@ -70,16 +70,13 @@
 <br>
 </details>
 
-[▲위로](#ppt-이미지로-보기)
+[▲위로 스크롤](#개요)
 
-<br>
+<br><br>
 
----
-
-### 글로 보기
 
 <details open>
-<summary> 클릭 </summary>
+<summary> 글로 보기 </summary>
 
 
 # 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
@@ -579,7 +576,7 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
 
 
 
-[▲위로](#글로-보기)
+[▲위로 스크롤](#개요)
 
 
 
