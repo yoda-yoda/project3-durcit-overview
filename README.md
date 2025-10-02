@@ -1,4 +1,88 @@
 # 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
+
+## 💡 팀(팀명:질수없조) 프로젝트
+
+
+---
+
+## 리포지터리 링크
+
+* 소개 링크: https://github.com/yoda-yoda/Project3_durcit-overview  
+* 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
+* 리액트: https://github.com/yoda-yoda/Project3_durcit-react  
+* 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
+* 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
+---
+### 🖼️
+
+<details>
+<summary> 이미지로 보기 </summary>
+
+![pptImage](./assets/images/durcit-ppt1.png)
+![pptImage](./assets/images/durcit-ppt2.png)
+![pptImage](./assets/images/durcit-ppt3.png)
+![pptImage](./assets/images/durcit-ppt4.png)
+![pptImage](./assets/images/durcit-ppt5.png)
+![pptImage](./assets/images/durcit-ppt6.png)
+![pptImage](./assets/images/durcit-ppt7.png)
+![pptImage](./assets/images/durcit-ppt8.png)
+![pptImage](./assets/images/durcit-ppt9.png)
+![pptImage](./assets/images/durcit-ppt10.png)
+![pptImage](./assets/images/durcit-ppt11.png)
+![pptImage](./assets/images/durcit-ppt12.png)
+![pptImage](./assets/images/durcit-ppt13.png)
+![pptImage](./assets/images/durcit-ppt14.png)
+![pptImage](./assets/images/durcit-ppt15.png)
+![pptImage](./assets/images/durcit-ppt16.png)
+![pptImage](./assets/images/durcit-ppt17.png)
+![pptImage](./assets/images/durcit-ppt18.png)
+![pptImage](./assets/images/durcit-ppt19.png)
+![pptImage](./assets/images/durcit-ppt20.png)
+![pptImage](./assets/images/durcit-ppt21.png)
+![pptImage](./assets/images/durcit-ppt22.png)
+![pptImage](./assets/images/durcit-ppt23.png)
+![pptImage](./assets/images/durcit-ppt24.png)
+![pptImage](./assets/images/durcit-ppt25.png)
+![pptImage](./assets/images/durcit-ppt26.png)
+![pptImage](./assets/images/durcit-ppt27.png)
+![pptImage](./assets/images/durcit-ppt28.png)
+![pptImage](./assets/images/durcit-ppt29.png)
+![pptImage](./assets/images/durcit-ppt30.png)
+![pptImage](./assets/images/durcit-ppt31.png)
+![pptImage](./assets/images/durcit-ppt32.png)
+![pptImage](./assets/images/durcit-ppt33.png)
+![pptImage](./assets/images/durcit-ppt34.png)
+![pptImage](./assets/images/durcit-ppt35.png)
+![pptImage](./assets/images/durcit-ppt36.png)
+![pptImage](./assets/images/durcit-ppt37.png)
+![pptImage](./assets/images/durcit-ppt38.png)
+![pptImage](./assets/images/durcit-ppt39.png)
+![pptImage](./assets/images/durcit-ppt40.png)
+![pptImage](./assets/images/durcit-ppt41.png)
+![pptImage](./assets/images/durcit-ppt42.png)
+![pptImage](./assets/images/durcit-ppt43.png)
+![pptImage](./assets/images/durcit-ppt44.png)
+![pptImage](./assets/images/durcit-ppt45.png)
+![pptImage](./assets/images/durcit-ppt46.png)
+![pptImage](./assets/images/durcit-ppt47.png)
+![pptImage](./assets/images/durcit-ppt48.png)
+
+<br>
+</details>
+
+[▲](###🖼️)
+
+
+<br><br><br><br><br>
+
+### ✏️
+
+<details open>
+<summary> 프로젝트 내용 글로 보기 </summary>
+
+
+
+## 3차 프로젝트 - **Durcit 팀프로젝트 (durckit team project)**
 <br>
 
 ## 💡 팀(팀명:질수없조) 프로젝트 개요  
@@ -9,53 +93,10 @@
 
 다양한 기능을 통해 사용자가 더 편리하고 재미있게 커뮤니티 활동을 즐길 수 있도록 설계되었습니다.
 
-
-
-
-<br>
-
+<br><br>
 
 
 ---
-### 리포지터리 링크
-
-* 소개 링크: https://github.com/yoda-yoda/Project3_durcit-overview  
-* 스프링: https://github.com/yoda-yoda/Project3_durcit-spring  
-* 리액트: https://github.com/yoda-yoda/Project3_durcit-react  
-* 리액트(관리자 기능) : https://github.com/yoda-yoda/Project3_durcit-admin  
-* 배포 : https://github.com/yoda-yoda/Project3_spring-deploy  
-
-
----
-
-<br>
-
-
-<details>
-
-<summary> 프로젝트 구성 내용 이미지로 보기 </summary>
-
-
-
-
-
-
-
-</details>
-
-
-
-
-
-
-
-
-
-
-<details open>
-<summary> 프로젝트 구성 내용 보기 </summary>
-
-
 
 
 ## 🌟 주요 기능
@@ -540,10 +581,17 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
 
 
 
+[▲](###✏️)
+
+
+
 
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 
 
