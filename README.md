@@ -392,7 +392,7 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
 
 <br><br>
 
-## Admin API 명세서서
+## Admin API 명세서
 
 - #### Admin 인증 API
 
