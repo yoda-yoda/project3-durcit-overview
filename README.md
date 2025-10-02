@@ -70,7 +70,7 @@
 <br>
 </details>
 
-[▲위로 스크롤](#개요)
+[▲개요로 스크롤](#개요)
 
 <br><br>
 
@@ -576,7 +576,7 @@ public void doFilter(ServletRequest request, ServletResponse response, FilterCha
 
 
 
-[▲위로 스크롤](#개요)
+[▲개요로 스크롤](#개요)
 
 
 
